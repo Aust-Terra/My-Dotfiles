@@ -1,6 +1,6 @@
 # My-Dotfiles
 
-Just some of my dotfiles for arch. I'll add screenshots later. Some of the stuff will be referencing locations on the disk, eg most things relating to fonts / images, so change them to suit your liking.
+Just some of my dotfiles for arch (endeavour). I'll add screenshots later. Some of the stuff will be referencing locations on the disk, eg most things relating to fonts / images, so change them to suit your liking.
 
 The zsh config file should go in the home directory.
 # Dependencies
